@@ -1,0 +1,1 @@
+C, C++, C#, java, javaScript, Python, RobotC, Кумир, Исполнитель, Pascal, basic, micropython, TrikStudio, BrainF*ck, VisualStudio
